@@ -1,0 +1,3 @@
+[submodule "artProjectWebGL"]
+	path = artProjectWebGL
+	url = git@github.com:jg542022/artProjectWebGL.git
